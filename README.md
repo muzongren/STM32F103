@@ -1,2 +1,1 @@
-# hello-word
-一个库
+#Hello world
